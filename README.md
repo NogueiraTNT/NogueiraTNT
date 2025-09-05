@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Nogueira</h1>
-<h3 align="center">Desenvolvedor FullStack | Bancos de Dados | Sistemas para FiveM </h3>
+<h3 align="center">Desenvolvedor FullStack | Especialista em Aplicações Web | PHP, Node.js, DB, JavaScript, TypeScript, React e Next.js</h3>
 
 ---
 
@@ -12,13 +12,40 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
+#### **Linguagens**
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
+</p>
+
+#### **Front-end**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+#### **Back-end**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+</p>
+
+#### **Banco de Dados**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
+
+#### **Ferramentas**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -29,7 +56,7 @@
 - 🎮 **Servidores FiveM (vRP)** – sistemas de login, economia, ranks e passe de batalha  
 - 🌐 **Sites institucionais** com áreas restritas e integração a banco de dados  
 
-👉 Confira mais no meu portfólio: [coruja.require.store](https://coruja.require.store)
+👉 Confira mais no meu portfólio: [coruja](https://coruja.require.store)
 
 ---
 
@@ -42,3 +69,5 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30"/>
   </a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NogueiraTNT&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
