@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mim
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**  
-💻 Experiência em **desenvolvimento back-end**, **bancos de dados** e **sistemas personalizados para servidores FiveM**  
+💻 Experiência em **desenvolvimento FullStack**, **bancos de dados** e **sistemas personalizados para servidores FiveM**  
 ⚡ Apaixonado por otimizar rotinas, estruturar sistemas robustos e criar soluções escaláveis para ambientes reais  
 
 ---
